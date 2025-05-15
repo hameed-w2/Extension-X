@@ -1,3 +1,5 @@
+# Extension-X version 0.0.2
+Extension-X 0.0.2 is the second version of extension-X, it is much more powerful then version 0.0.1
 # Extension-X version 0.0.1
 Extension-X is a chromeOS exploit that freezes goguardian and securly.
 
